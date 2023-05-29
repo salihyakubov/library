@@ -1,0 +1,28 @@
+{
+  "books": [
+    {
+        "id": 1,
+        "name": "Ak-keme",
+        "author": "Чынгыз Айтматов",
+        "status": false
+      },
+      {
+        "id": 2,
+        "name": "Sultanmurat",
+        "author": "Чынгыз Айтматов",
+        "status": true
+      },
+      {
+        "name": "dcsdasxasx",
+        "author": "asasxasxs",
+        "status": false,
+        "id": 3
+      },
+      {
+        "name": "aedasdwd",
+        "author": "aedasx",
+        "status": false,
+        "id": 4
+      }
+  ]
+}
